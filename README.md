@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 📱 Mobile Price Predictor
+
 📌 Project Overview
 
 The Mobile Price Predictor is a machine learning-based web application that predicts smartphone prices based on their specifications. The model is trained on a dataset containing mobile phone features such as Brand, RAM, Storage, Processor, Display size, Camera, and Battery capacity.
